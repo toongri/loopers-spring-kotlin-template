@@ -38,3 +38,10 @@ out/
 
 ### Kotlin ###
 .kotlin
+
+### AI Assistants ###
+.claude/
+.codex/
+.gemini/
+.omt/
+.superset/
